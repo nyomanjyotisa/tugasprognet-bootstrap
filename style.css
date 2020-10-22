@@ -1,0 +1,26 @@
+body {
+	background-color: #ededed;
+	font-family: verdana;
+}
+
+.container-fluid {
+	border-radius: 40px;
+	box-shadow: 0 0 20px #b6b6b6;
+}
+
+#form {
+	width: 400px;
+}
+
+#berita {
+	padding-top:80px;
+}
+
+#artikel {
+	width :60%;
+	margin: 10px auto;
+}
+
+#search {
+	width: 300px;
+}
